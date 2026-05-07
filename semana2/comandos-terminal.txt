@@ -1,0 +1,13 @@
+ls 
+cd programadorez-paz-daniela
+cd semana2
+touch comandos-terminal.txt
+touch preguntas-semana2.txt
+touch reflexion semana2.txt
+cat comandos-terminal.txt
+cat preguntas-semana2.txt
+cat reflexion semana2.txt
+git status
+git add .
+git commit -m "mensaje"
+git push 

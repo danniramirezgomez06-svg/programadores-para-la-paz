@@ -1,0 +1,9 @@
+Respuesta reflexion:
+las herramientas más potentes para programadores 
+se llevan de maravilla con la terminal. 
+Automatizar tareas aburridas es mucho más fácil cuando puedes escribir un pequeño script que lo haga por ti.
+En resumen: La terminal no es una barrera, es un atajo. 
+Al principio asusta ver esa pantalla negra, pero una vez que aprendes a "hablarle", te sientes mucho más seguro y capaz. Es la diferencia entre usar una herramienta y entender cómo funciona.
+Para un desarrollador, las carpetas son su taller.
+En la terminal, puedes crear estructuras de carpetas complejas, mover archivos según su extensión o limpiar archivos basura con un solo comando. 
+Es como tener un taller ultra ordenado donde todo vuela a tu mano apenas lo necesitas.
