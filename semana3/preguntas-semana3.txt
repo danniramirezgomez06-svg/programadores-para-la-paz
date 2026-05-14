@@ -1,0 +1,9 @@
+Pregunta1:¿Qué es Git? 
+Respuesta:B
+Pregunta2:¿Cuál es la función principal de un repositorio?
+Respuesta:B
+Pregunta3:¿Qué hace el comando git add?
+Respuesta:B 
+Pregunta4:¿Qué hace el comando git commit?
+Respuesta:A
+

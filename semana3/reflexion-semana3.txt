@@ -1,0 +1,12 @@
+Reflexion: Razones principales para usar Git en proyectos de software
+Beneficio	
+Impacto en el proyecto
+Historial de cambios	
+Permite retroceder y auditar modificaciones
+Colaboración 
+Varios desarrolladores trabajan en paralelo sin conflictos
+Transparencia	Usuarios y equipos entienden la evolución del software
+Corrección de errores	
+Localización rápida de bugs
+Control de versiones	
+Gestión ordenada de lanzamientos y actualizaciones

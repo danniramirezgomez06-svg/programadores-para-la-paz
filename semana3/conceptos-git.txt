@@ -1,0 +1,9 @@
+Repositorio:
+Un repositorio es como una caja de herramientas donde tienes todo lo necesario para construir y reparar tu proyecto. Además, sabes qué herramientas agregaste o quitaste con el tiempo. 
+Es el lugar seguro y organizado donde vive tu proyecto y su historia. 
+Commit:
+Cada commit es una escena dentro de la película de tu proyecto. Cuando juntas todas las escenas, ves la historia completa de cómo se construyó.
+es un registro puntual de un cambio, acompañado de una explicación, que forma parte de la historia del proyecto.
+Push:
+El push es el paso en el que tu trabajo local se conecta con el proyecto global. Es la forma de unir lo que hiciste con lo que está en línea.
+Es el acto de enviar tus cambios guardados (commits) al repositorio central para compartirlos con todos.
