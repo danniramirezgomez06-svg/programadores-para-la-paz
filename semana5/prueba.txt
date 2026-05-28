@@ -1,0 +1,7 @@
+Respuestas: 
+http://localhost:3000:
+Me sale:Un mensaje cuando lo ejecuto.
+http://localhost:3000/saludo:
+Me sale:Un saludo despues de cuando lo ejecuto.
+http://localhost:3000/mensaje/juan:
+Me sale: Hola Juan despues de lo ejecuto. 

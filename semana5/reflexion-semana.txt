@@ -1,0 +1,5 @@
+Reflexión:
+Las APIs son como puentes invisibles que conectan aplicaciones. 
+Gracias a ellas, un reporte que alguien hace en una app puede llegar al instante a toda la comunidad, mostrando dónde ocurrió y qué pasó. 
+Así la información no se pierde y todos reciben lo mismo.
+Las APIs hacen que un solo reporte se convierta en información organizada, distribuida y útil, sin que la persona tenga que repetirlo en cada canal.
