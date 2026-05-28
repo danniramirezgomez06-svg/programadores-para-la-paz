@@ -1,0 +1,4 @@
+Reflexion:
+Las tecnologías abiertas son como puertas abiertas al conocimiento. 
+Si una comunidad crea sus propias herramientas con Node.js, no solo está resolviendo un problema puntual, sino que está construyendo soberanía digital. Eso significa que las decisiones, los datos y las soluciones nacen desde la comunidad misma, sin depender de intereses externos. 
+Y lo más poderoso es que cualquiera puede aprender, aportar y crecer en ese proceso.
