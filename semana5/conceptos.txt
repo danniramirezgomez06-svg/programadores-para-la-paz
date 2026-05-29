@@ -1,0 +1,8 @@
+Qué hace esta ruta
+Respuesta: La ruta conceptos-api.txt sirve como un repositorio de conocimiento: 
+un lugar donde se almacenan explicaciones claras y ordenadas sobre APIs, de manera que la comunidad o los usuarios puedan consultarlas fácilmente cuando necesiten aprender o recordar qué hacen y cómo se usan.
+Para qué podría servir en una aplicación comunitaria.
+Respuesta: En una aplicación comunitaria, un archivo como conceptos-api.txt podría servir como una especie de manual rápido o glosario compartido.
+Usos posibles:Explicar de forma sencilla qué son las APIs y cómo ayudan a que la comunidad comparta información. 
+Así, cualquier miembro puede entender la base tecnológica sin ser experto.
+
